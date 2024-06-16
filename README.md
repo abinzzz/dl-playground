@@ -10,7 +10,7 @@
 - [x] nn.Module 详见`/module`
 - [x] gradio 详见 `/gradio_base`
 - [x] dataloader与dataset 详见`data_loader.py`
-- [ ] yeilf.py 详见   `yeild.py`
+- [x] yeild 详见`yeild.py`
 
 ### others
 - [x] web crawler 详见`/crawler`
