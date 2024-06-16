@@ -2,6 +2,7 @@
 ### model
 - [ ] PyTorch实现Transformer
 - [ ] PyTorch实现Unet 
+- [x] PyTorch实现Bert 详见`/BERT`
 
 ### funtion/class
 - [x] Datasets.map 详见`/map/test.ipynb`
